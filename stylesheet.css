@@ -1,0 +1,23 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    background-color:  rgba(168, 165, 165,0.2);
+}
+h3{
+    text-transform: capitalize;
+    color: red;
+}
+p{
+    width:75%;
+    margin:30px;
+    background-color:  rgba(168, 165, 165,0.2);
+    padding:10px;
+    
+}
+li{
+    line-height: 30px;
+    font-size: larger;
+    margin:14px;
+    background-color:  rgba(168, 165, 165,0.2);
+    text-transform: capitalize;
+}
